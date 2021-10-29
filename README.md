@@ -17,7 +17,7 @@ More details of each work has been summarized in our [survey paper](), coming so
 
 ## Summary of TAS
 
-Representative Work of Transformer Architecture Search (TAS), where H-level, M-level and A-level Refer to Hyperparameter-level, Module-level and Architecture-level, Respectively. Besides, EA, RL, GO and RS Are Denoted for Evolutionary Algorithm, Reinforcement Learning, Gradient Optimization and Random Search, Respectively.
+Representative Work of Transformer Architecture Search (TAS), where **H-level**, **M-level** and **A-level** Refer to **H**yperparameter-**level**, **M**odule-**level** and **A**rchitecture-**level**, Respectively. Besides, **EA**, **RL**, **GO** and **RS** Are Denoted for Evolutionary Algorithm, Reinforcement Learning, Gradient Optimization and Random Search, Respectively.
 
 <table class="tg">
 <thead>
