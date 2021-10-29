@@ -16,6 +16,9 @@ Each TAS work is introduced from three aspects: Search Space, Search Strategy, a
 More details of each work has been summarized in our [survey paper](), coming soon.
 
 ## Summary of TAS
+
+Representative Work of Transformer Architecture Search (TAS), where H-level, M-level and A-level Refer to Hyperparameter-level, Module-level and Architecture-level, Respectively. Besides, EA, RL, GO and RS Are Denoted for Evolutionary Algorithm, Reinforcement Learning, Gradient Optimization and Random Search, Respectively.
+
 <table class="tg">
 <thead>
   <tr>
