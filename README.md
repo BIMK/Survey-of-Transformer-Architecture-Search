@@ -5,10 +5,10 @@ This is a summary of Neural Architecture Search (NAS) on Transformer, named TAS.
 
 Papers are divided into the following categories based on Domain Specific:
 
-* 1.**Natrual Language Processing (NLP)**
-* 2.**Computer Vision (CV)**
-* 3.**Automatic Speech Recognition (ASR)**
-* 4.**Other**
+* **Natrual Language Processing (NLP)**
+* **Computer Vision (CV)**
+* **Automatic Speech Recognition (ASR)**
+* **Other**
 
 Each TAS work is introduced from three aspects: Search Space, Search Strategy, and Estimation Strategy, which are key compoments of NAS and also important for TAS.
 
