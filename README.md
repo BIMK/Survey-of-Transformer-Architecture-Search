@@ -340,4 +340,4 @@ Representative Work of Transformer Architecture Search (TAS), where **H-level**,
   </tr>
 </tbody>
 </table>
-![image](https://github.com/BIMK/Survey-of-Transformer-Architecture-Search/blob/main/img/QQ%E5%9B%BE%E7%89%8720211208102524.png)
+![Alt text](https://github.com/BIMK/Survey-of-Transformer-Architecture-Search/blob/main/img/QQ%E5%9B%BE%E7%89%8720211208102524.png)
