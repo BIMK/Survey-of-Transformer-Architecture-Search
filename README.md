@@ -1,4 +1,4 @@
-# Survey-of-Transformer-Architecture-Search (TAS)
+# Transformer Architecture Search (TAS): A Survey
 
 ## Introduction
 This is a summary of Neural Architecture Search (NAS) on Transformer, named TAS.
